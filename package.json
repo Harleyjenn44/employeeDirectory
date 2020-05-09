@@ -1,0 +1,24 @@
+{
+  "name": "employeedirectory",
+  "version": "1.0.0",
+  "description": "This app allows the user to view their employee directory all at once. they can then also sort their employees by first or last name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harleyjenn44/employeeDirectory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harleyjenn44/employeeDirectory/issues"
+  },
+  "homepage": "https://github.com/Harleyjenn44/employeeDirectory#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
